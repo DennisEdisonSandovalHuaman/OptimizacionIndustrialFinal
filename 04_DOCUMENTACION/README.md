@@ -12,8 +12,7 @@ Proyecto final de curso enfocado en aplicar **algoritmos evolutivos** para resol
 - **DATOS**
 
   - `Candidatos_supermercados.xlsx`: Ubicaciones candidatas para instalar supermercados.
-  - `resultados_supermercados_mono_objetivo_v2.xlsx`: Resultados de la optimización monoobjetivo.
-
+  
 - **MODELOS Y RESULTADOS**
 
   - `Proyecto_Final_Optimización_Evolutiva_PUCP_IA_MonoObjetivo.ipynb`: Implementación de la optimización monoobjetivo.
@@ -21,6 +20,7 @@ Proyecto final de curso enfocado en aplicar **algoritmos evolutivos** para resol
   - `all_pareto_fronts_optimizado.pkl`: Archivo serializado con los frentes de Pareto óptimos encontrados.
   - `Comparacion_Multiobjetivo_Monoobjetivo_vf.png`: Comparación gráfica entre soluciones multiobjetivo y monoobjetivo.
   - `Evolucion_Fitness_Monoobjetivo_vf.png`: Evolución de la función de fitness durante la optimización monoobjetivo.
+  - `resultados_supermercados_mono_objetivo_v2.xlsx`: Resultados de la optimización monoobjetivo.
 
 - **DOCUMENTACIÓN**
 
