@@ -4,27 +4,27 @@ Proyecto final de curso enfocado en aplicar **algoritmos evolutivos** para resol
 
 ## 📂 Estructura del Proyecto
 
-- **PRESENTACIÓN**
+- **01_PRESENTACIÓN**
 
   - `Informe Proyecto Final - Optimización de Localizaciones Supermercados.docx`: Informe detallado del proyecto.
   - `Proyecto_Final_OptimizCompEvolut_Grupo2_v1.pptx`: Presentación resumen.
 
-- **DATOS**
+- **02_DATOS**
 
   - `Candidatos_supermercados.xlsx`: Ubicaciones candidatas para instalar supermercados.
   
-- **MODELOS Y RESULTADOS**
+- **03_PROCESAMIENTO Y CODIGO**
 
   - `Proyecto_Final_Optimización_Evolutiva_PUCP_IA_MonoObjetivo.ipynb`: Implementación de la optimización monoobjetivo.
   - `Proyecto_Final_Optimización_Evolutiva_PUCP_IA_MultiObjetivo.ipynb`: Implementación de la optimización multiobjetivo.
   - `all_pareto_fronts_optimizado.pkl`: Archivo serializado con los frentes de Pareto óptimos encontrados.
+  
+- **04_RESULTADOS**
   - `Comparacion_Multiobjetivo_Monoobjetivo_vf.png`: Comparación gráfica entre soluciones multiobjetivo y monoobjetivo.
   - `Evolucion_Fitness_Monoobjetivo_vf.png`: Evolución de la función de fitness durante la optimización monoobjetivo.
   - `resultados_supermercados_mono_objetivo_v2.xlsx`: Resultados de la optimización monoobjetivo.
 
-- **DOCUMENTACIÓN**
-
-  - `README.md`: Este documento.
+- `README.md`: Este documento.
 
 ---
 
@@ -108,5 +108,4 @@ deap
 
 (Se asume que `pickle` y `random` ya están disponibles en cualquier instalación de Python).
 
-Generame un archivo .md para descargar 
-
+El siguiente trabajo se ha generado bajo Google Colab y las versiones de los paquetes/librerias son las actuales a la fecha (04/2025)
